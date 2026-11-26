@@ -1,46 +1,81 @@
-# 👋 Hi, I'm Sanjidur Rahman Apu
+<!-- ================= PROFILE HEADER ================= -->
 
 <p align="center">
-  <img src="./apu.jpg" width="170" alt="Sanjidur Rahman Apu"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Sanjidur%20Rahman%20Apu&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Android%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Profile Header"/>
 </p>
 
-<h3 align="center">Android Developer | Web Developer | AI & ML Enthusiast</h3>
+<p align="center">
+  <img src="./apu.jpg" width="165" alt="Sanjidur Rahman Apu"/>
+</p>
 
 <p align="center">
-  Passionate about building modern Android applications, AI-powered solutions, and responsive web experiences with a focus on clean design and practical functionality.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sanjidur+Rahman+Apu+%F0%9F%91%8B;Android+App+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <b>Building digital experiences through code, creativity and innovation.</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/sanjidur-8267">
-    <img src="https://img.shields.io/badge/GitHub-sanjidur--8267-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Passion-Innovation-8B5CF6?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+<!-- ================= ABOUT ME ================= -->
 
-## 🎬 01 — VidFlix
+<h2 align="center">✨ About Me</h2>
 
 <p align="center">
-  <img src="./vidflix_mockup.png" width="100%" alt="VidFlix Android Application Preview"/>
+  I'm a developer passionate about creating Android applications,<br/>
+  modern websites and intelligent technology-driven solutions.
 </p>
 
 <p align="center">
-  <b>Video Downloader • Private Browser • Android</b>
+  🚀 Exploring new technologies & building real-world projects<br/>
+  📱 Focused on Android application development<br/>
+  🌐 Creating modern web experiences<br/>
+  🤖 Interested in Artificial Intelligence & Machine Learning<br/>
+  🎨 Passionate about UI, design and digital creativity
 </p>
 
-VidFlix is an Android application designed to bring video downloading, media browsing and private browsing features together in one application with a modern user interface.
+---
 
-### ✨ Highlights
+<!-- ================= PROJECTS ================= -->
 
-- Video and music downloading interface
-- Multiple video quality and format options
-- Built-in private browsing experience
-- Privacy and DNS protection features
-- Modern Android UI
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 🌐 Official Website
+<!-- VIDFLIX -->
+
+<h3 align="center">🎬 VidFlix</h3>
+
+<p align="center">
+  <img src="./vidflix_mockup.png" width="100%" alt="VidFlix Android App Mockup"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App-Media%20Downloader-FF3158?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Privacy-Browsing-8B5CF6?style=flat-square"/>
+</p>
+
+<p align="center">
+  A modern Android application combining media downloading and private browsing in one experience.
+</p>
+
+**Highlights**
+
+- 📥 Media downloading experience
+- 🎞️ Video quality options
+- 🌐 Built-in private browser
+- 🛡️ Privacy and DNS features
+- 📱 Modern Android interface
+
+<h4 align="center">🌐 Official Website</h4>
 
 <p align="center">
   <a href="https://vidflixpremium.netlify.app/">
@@ -50,104 +85,158 @@ VidFlix is an Android application designed to bring video downloading, media bro
 
 <p align="center">
   <a href="https://vidflixpremium.netlify.app/">
-    <img src="https://img.shields.io/badge/Official_Website-Visit-FF3158?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Official_Website-Visit-FF3158?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://github.com/sanjidur-8267/VidFlix/releases">
-    <img src="https://img.shields.io/badge/Download-APK-252525?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Download-APK-8B5CF6?style=for-the-badge&logo=android&logoColor=white"/>
   </a>
   <a href="https://github.com/sanjidur-8267/VidFlix">
-    <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Source-Repository-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🏡 02 — Elite Estates
+<!-- ELITE ESTATES -->
+
+<h3 align="center">🏡 Elite Estates</h3>
 
 <p align="center">
-  <img src="./eliteestates_mockup.png" width="80%" alt="Elite Estates Website Preview"/>
+  <img src="./eliteestates_mockup.png" width="85%" alt="Elite Estates Real Estate Website"/>
 </p>
 
 <p align="center">
-  <b>Real Estate • Property Discovery • Web Development</b>
+  <img src="https://img.shields.io/badge/Category-Real%20Estate-C9A227?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Platform-Web-38BDF8?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design-Premium-8B5CF6?style=flat-square"/>
 </p>
 
-Elite Estates is a real estate website concept designed to provide an elegant property browsing experience, featuring modern layouts, property showcases and a premium visual presentation.
+<p align="center">
+  A modern real estate website featuring elegant property showcases,<br/>
+  sophisticated layouts and a premium browsing experience.
+</p>
 
-### ✨ Highlights
+**Highlights**
 
-- Modern real estate interface
-- Property showcase cards
-- Property discovery layout
-- Elegant visual design
-- Responsive website experience
+- 🏠 Property showcase
+- 💎 Premium real estate presentation
+- 🔎 Property discovery experience
+- 📐 Modern web layout
+- 🌐 Responsive website design
 
 <p align="center">
   <a href="https://tafs-estate.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Explore_Elite_Estates-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_Official_Website-Explore_Elite_Estates-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🍿 03 — FlixBay
+<!-- FLIXBAY -->
+
+<h3 align="center">🍿 FlixBay</h3>
 
 <p align="center">
-  <img src="./flixbay_mockup.png" width="80%" alt="FlixBay Website Preview"/>
+  <img src="./flixbay_mockup.png" width="85%" alt="FlixBay Movie Website"/>
 </p>
 
 <p align="center">
-  <b>Movies • Entertainment • Web Development</b>
+  <img src="https://img.shields.io/badge/Category-Entertainment-FF3158?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Platform-Web-38BDF8?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Theme-Cinematic%20Dark-8B5CF6?style=flat-square"/>
 </p>
 
-FlixBay is a movie browsing website featuring a dark-themed interface, movie collections, featured titles and a visually rich entertainment experience.
+<p align="center">
+  A cinematic movie discovery experience with a modern dark interface,<br/>
+  featured titles and entertainment-focused visual design.
+</p>
 
-### ✨ Highlights
+**Highlights**
 
-- Dark-themed movie interface
-- Featured movie section
-- Latest movies showcase
-- Movie browsing layout
-- Entertainment-focused design
+- 🎬 Movie discovery interface
+- 🍿 Featured entertainment content
+- 🌑 Cinematic dark UI
+- 🎨 Modern visual experience
+- 📱 Responsive browsing design
 
 <p align="center">
   <a href="https://flixbay.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-Explore_FlixBay-EA2048?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_Website-Explore_FlixBay-9B59FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🛠️ Technologies & Interests
+<!-- ================= TECH STACK ================= -->
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-Development-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-Research-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Web_Development-Development-FF6F61?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=20232A"/>
+  <img src="https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&logo=expo&logoColor=000020"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile_Development-00C9A7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Web_Development-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=flat-square"/>
 </p>
 
 ---
 
-# 📌 Connect & Explore
+<!-- ================= GITHUB STATS ================= -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjidur-8267&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=9B59FF&text_color=FFFFFF&rank_icon=github" height="180" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidur-8267&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjidur-8267&theme=tokyonight&hide_border=true&background=0D1117&ring=9B59FF&fire=FF3158&currStreakLabel=00E5FF" width="95%" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">🌐 Connect & Explore</h2>
 
 <p align="center">
   <a href="https://github.com/sanjidur-8267">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Building ideas into real projects, one step at a time.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F;Code+%E2%80%A2+Create+%E2%80%A2+Innovate;Let's+build+something+amazing+%F0%9F%9A%80" alt="Animated Footer"/>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! 🤍
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=130&section=footer" width="100%" alt="Footer Banner"/>
 </p>
 
 <p align="center">
-  <i>© Sanjidur Rahman Apu</i>
+  <b>© Sanjidur Rahman Apu · Built with passion ❤️</b>
 </p>

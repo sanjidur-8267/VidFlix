@@ -1,7 +1,20 @@
 {
   "versionCode": 1002000,
   "versionName": "1.2.0",
-  "apkUrl": "https://github.com/sanjidur-8267/VidFlix/releases/download/v1.2.0/VidFlix-v1.2.0.apk",
-  "notes": "• Bug fixes and performance improvements\n• Faster video downloads",
-  "pageUrl": "https://github.com/sanjidur-8267/VidFlix/releases/tag/v1.2.0"
+  "notes": "• Faster video downloads & improved UI\n• Auto-select smaller APK for your device\n• Bug fixes and stability improvements",
+  "pageUrl": "https://github.com/sanjidur-8267/VidFlix/releases/tag/v1.2.0",
+  "apks": [
+    {
+      "name": "VidFlix-arm64-v8a.apk",
+      "url": "https://github.com/sanjidur-8267/VidFlix/releases/download/v1.2.0/VidFlix-arm64-v8a.apk"
+    },
+    {
+      "name": "VidFlix-armeabi-v7a.apk",
+      "url": "https://github.com/sanjidur-8267/VidFlix/releases/download/v1.2.0/VidFlix-armeabi-v7a.apk"
+    },
+    {
+      "name": "VidFlix-universal.apk",
+      "url": "https://github.com/sanjidur-8267/VidFlix/releases/download/v1.2.0/VidFlix-universal.apk"
+    }
+  ]
 }

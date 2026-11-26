@@ -12,3 +12,16 @@
     <img src="./vidflix_mockup.png" width="100%" alt="VidFlix App Mockup"/>
   </a>
 </p>
+<h2 align="center">🌐 Official Website</h2>
+
+<p align="center">
+  <a href="https://vidflixpremium.netlify.app/">
+    <strong>Visit VidFlix Website ↗</strong>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://vidflixpremium.netlify.app/">
+    <img src="./vidflix_website_mockup.png" width="100%" alt="VidFlix Official Website Preview"/>
+  </a>
+</p>
